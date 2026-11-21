@@ -1,4 +1,6 @@
-# Draft comment for issue #4509 — NOT SENT
+# Comment for issue #4509 — SENT on 2026-11-21
+
+Posted at https://github.com/EleutherAI/lm-evaluation-harness/issues/4509#issuecomment-7067386356. The text below is the draft; the posted version adds a table.
 
 ---
 
