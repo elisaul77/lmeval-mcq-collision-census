@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner](docs/banner.png)
+
 # When "5" and "−5" are the same answer
 
 **A census of real MMLU questions exposed to the choice-collision bug in `lm-evaluation-harness` ([#4509](https://github.com/EleutherAI/lm-evaluation-harness/issues/4509))**
