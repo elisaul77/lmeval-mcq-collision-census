@@ -1,0 +1,98 @@
+{
+ "tareas": {
+  "generativa": {
+   "n": 14042,
+   "con_choque": 82,
+   "expuestas": 51,
+   "A": 26,
+   "B": 25,
+   "techo_total": 0.36319612590799033,
+   "techo_max": 3.7037037037037037,
+   "materia_max": "high_school_mathematics",
+   "techo_por_materia": {
+    "abstract_algebra": 3.0,
+    "clinical_knowledge": 0.37735849056603776,
+    "college_chemistry": 1.0,
+    "electrical_engineering": 1.3793103448275863,
+    "elementary_mathematics": 2.9100529100529102,
+    "formal_logic": 3.1746031746031744,
+    "global_facts": 2.0,
+    "high_school_biology": 0.6451612903225806,
+    "high_school_computer_science": 2.0,
+    "high_school_macroeconomics": 1.0256410256410255,
+    "high_school_mathematics": 3.7037037037037037,
+    "high_school_physics": 1.3245033112582782,
+    "high_school_statistics": 1.8518518518518519,
+    "miscellaneous": 0.2554278416347382,
+    "professional_accounting": 0.3546099290780142
+   },
+   "veredicto": "puede importar",
+   "parte": "test",
+   "group_select": 0
+  },
+  "paso_a_paso": {
+   "n": 1531,
+   "con_choque": 8,
+   "expuestas": 7,
+   "A": 3,
+   "B": 4,
+   "techo_total": 0.457217504898759,
+   "techo_max": 9.090909090909092,
+   "materia_max": "college_mathematics",
+   "techo_por_materia": {
+    "college_mathematics": 9.090909090909092,
+    "elementary_mathematics": 2.4390243902439024,
+    "high_school_mathematics": 6.896551724137931,
+    "miscellaneous": 1.1627906976744187,
+    "professional_accounting": 3.225806451612903,
+    "virology": 5.555555555555555
+   },
+   "veredicto": "puede importar",
+   "parte": "validation",
+   "group_select": -1
+  }
+ },
+ "control1": {
+  "coinciden_con_lo_predicho": 735,
+  "respuestas_mal_puntuadas_por_el_choque": 234,
+  "no_coinciden": 17
+ },
+ "control3": true,
+ "control2": {
+  "generativa": {
+   "frase": {
+    "bien": 1990,
+    "mal": 10
+   },
+   "texto": {
+    "bien": 1993,
+    "mal": 7
+   }
+  },
+  "paso_a_paso": {
+   "frase": {
+    "bien": 1994,
+    "mal": 6
+   },
+   "texto": {
+    "bien": 1994,
+    "mal": 6
+   }
+  }
+ },
+ "dev": {
+  "n": 285,
+  "con_choque": 4,
+  "expuestas": 2,
+  "A": 1,
+  "B": 1,
+  "techo_total": 0.7017543859649122,
+  "techo_max": 20.0,
+  "materia_max": "college_mathematics",
+  "techo_por_materia": {
+   "college_mathematics": 20.0,
+   "formal_logic": 20.0
+  },
+  "veredicto": "puede importar"
+ }
+}

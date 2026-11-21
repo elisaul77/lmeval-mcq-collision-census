@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this census, please cite it as below."
+title: "When '5' and '-5' are the same answer: a census of MMLU questions exposed to the choice-collision bug in lm-evaluation-harness (#4509)"
+type: dataset
+authors:
+  - family-names: "Florez Perez"
+    given-names: "Eli Saul"
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/elisaul77/lmeval-mcq-collision-census"
