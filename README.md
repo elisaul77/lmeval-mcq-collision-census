@@ -11,6 +11,10 @@
 ![no model](https://img.shields.io/badge/model%20runs-none%20(census%20only)-lightgrey)
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/elisaul77)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/eflorezp)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/elisaul77)
+
 </div>
 
 ---
@@ -133,6 +137,16 @@ Paths in the scripts assume this repository's `census/` folder is named `choque/
 - MMLU: Hendrycks et al., distributed as [`cais/mmlu`](https://huggingface.co/datasets/cais/mmlu) under the MIT license. The affected-question list reproduces answer choices from that dataset.
 - Author: **Eli Saul Florez Perez** ([@elisaul77](https://github.com/elisaul77)).
 - Analysis, code and writing were done with AI assistance (Claude; the direction came out of an independent review by Codex). All numbers come from the audited run.
+
+## Support this work
+
+This is independent, unfunded research done on one desktop PC. If it was useful to you:
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/elisaul77)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/eflorezp)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/elisaul77)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=for-the-badge&logo=kofi)](https://ko-fi.com/elisaul77)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon)](https://patreon.com/elisaul77)
 
 ## License
 
